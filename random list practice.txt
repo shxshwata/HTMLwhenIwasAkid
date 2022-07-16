@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>d
+</title>
+</head
+<body>
+<ul>
+<li>	Random List Practice
+</li></ul>
+<ol>
+<li>Wall Color System
+<ul><li>Green
+<li>Blue
+</ul>
+<ol>
+<li>Floor Color System
+
+</ol>
+<ul>
+<li>Orange
+<li>Red
+
+</ol>
